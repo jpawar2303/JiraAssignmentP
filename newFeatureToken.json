@@ -1,0 +1,12 @@
+{
+   "fields": {
+      "project": {
+         "key": "FIR"
+      },
+      "summary": "create new feature",
+      "description": "Assign this to developer",
+      "issuetype": {
+         "name": "New Feature"
+      }
+   }
+}

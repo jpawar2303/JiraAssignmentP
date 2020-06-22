@@ -1,0 +1,12 @@
+{
+   "fields": {
+      "project": {
+         "key": "FIR"
+      },
+      "summary": "Create new record",
+      "description": "adding new employee record",
+      "issuetype": {
+         "name": "Task"
+      }
+   }
+}

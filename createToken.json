@@ -1,0 +1,12 @@
+{
+   "fields": {
+      "project": {
+         "key": "FIR"
+      },
+      "summary": "create a wardrobe for Client",
+      "description": "Assign it to Designer",
+      "issuetype": {
+         "name": "Bug"
+      }
+   }
+}
